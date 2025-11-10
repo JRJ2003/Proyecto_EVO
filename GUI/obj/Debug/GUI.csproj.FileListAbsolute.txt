@@ -1,0 +1,169 @@
+C:\Users\Axel EV\Desktop\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\Axel EV\Desktop\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Axel EV\Desktop\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Axel EV\Desktop\GUI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Axel EV\Desktop\GUI\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Axel EV\Desktop\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Axel EV\Desktop\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Axel EV\Desktop\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Axel EV\Desktop\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\Axel EV\Desktop\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\Axel EV\Desktop\GUI\GUI\obj\Debug\GUI.exe.config
+C:\Users\Axel EV\Desktop\GUI\GUI\obj\Debug\GUI.Productos.resources
+C:\Users\Axel EV\Desktop\GUI\GUI\obj\Debug\GUI.inicio.resources
+C:\Users\Axel EV\Desktop\GUI\GUI\obj\Debug\GUI.PanelProductos.resources
+C:\Users\Axel EV\Desktop\GUI\GUI\obj\Debug\GUI.PanelCompras.resources
+C:\Users\Axel EV\Desktop\GUI\GUI\obj\Debug\GUI.PanelProveedores.resources
+C:\Users\Axel EV\Desktop\GUI\GUI\obj\Debug\GUI.PanelUsuarios.resources
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\user\Desktop\GUI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GUI\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\user\Desktop\GUI\GUI\obj\Debug\GUI.inicio.resources
+C:\Users\user\Desktop\GUI\GUI\obj\Debug\GUI.PanelCompras.resources
+C:\Users\user\Desktop\GUI\GUI\obj\Debug\GUI.PanelProductos.resources
+C:\Users\user\Desktop\GUI\GUI\obj\Debug\GUI.PanelProveedores.resources
+C:\Users\user\Desktop\GUI\GUI\obj\Debug\GUI.PanelUsuarios.resources
+C:\Users\user\Desktop\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\user\Desktop\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\user\Desktop\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\user\Desktop\GUI\GUI\obj\Debug\GUI.PanelVentas.resources
+C:\Users\user\Desktop\GUI\GUI\obj\Debug\GUI.Carga.resources
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\GUI\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\GUI\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\MARCO\Desktop\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\MARCO\Desktop\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\MARCO\Desktop\GUI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\MARCO\Desktop\GUI\GUI\obj\Debug\GUI.exe.config
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\MySql.Data.dll
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\System.Buffers.dll
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\System.Memory.dll
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\MySql.Data.xml
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\System.Buffers.xml
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\System.Memory.xml
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MARCO\Desktop\GUI\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MARCO\Desktop\GUI\GUI\obj\Debug\GUI.Carga.resources
+C:\Users\MARCO\Desktop\GUI\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\MARCO\Desktop\GUI\GUI\obj\Debug\GUI.inicio.resources
+C:\Users\MARCO\Desktop\GUI\GUI\obj\Debug\GUI.PanelVentas.resources
+C:\Users\MARCO\Desktop\GUI\GUI\obj\Debug\GUI.PanelCompras.resources
+C:\Users\MARCO\Desktop\GUI\GUI\obj\Debug\GUI.PanelProductos.resources
+C:\Users\MARCO\Desktop\GUI\GUI\obj\Debug\GUI.PanelProveedores.resources
+C:\Users\MARCO\Desktop\GUI\GUI\obj\Debug\GUI.PanelUsuarios.resources
+C:\Users\MARCO\Desktop\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\MARCO\Desktop\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\MARCO\Desktop\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\MARCO\Desktop\GUI\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.exe.config
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.Carga.resources
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.inicio.resources
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.PanelVentas.resources
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.PanelCompras.resources
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.PanelProductos.resources
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.PanelProveedores.resources
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.PanelUsuarios.resources
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\MySql.Data.dll
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.Buffers.dll
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.Memory.dll
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\MySql.Data.xml
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.Buffers.xml
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.Memory.xml
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.csproj.Up2Date
