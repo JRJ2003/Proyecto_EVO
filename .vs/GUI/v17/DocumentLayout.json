@@ -3,23 +3,59 @@
   "WorkspaceRootPath": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|c:\\users\\axel ev\\desktop\\ultimo\\gui\\gui\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\formconfigprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\formconfigprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\formconfigprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\formconfigprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|c:\\users\\axel ev\\desktop\\ultimo\\gui\\gui\\panelproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|c:\\users\\axel ev\\desktop\\ultimo\\gui\\gui\\producto\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\producto\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\panelproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\panelproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\panelproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\panelproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|c:\\users\\axel ev\\desktop\\ultimo\\gui\\gui\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|c:\\users\\axel ev\\desktop\\ultimo\\gui\\gui\\reporte\\reporteventasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\usuarios\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\usuarios\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\usuarios\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\usuarios\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\usuarios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\usuarios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\reporte\\reporteventasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\reporte\\reporteventasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|c:\\users\\axel ev\\desktop\\ultimo\\gui\\gui\\panelventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\panelventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\panelventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,23 +63,7 @@
       "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\panelventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\ventas\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\ventas\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|c:\\users\\axel ev\\desktop\\ultimo\\gui\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\producto\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\producto\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\ventas\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\ventas\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|c:\\users\\axel ev\\desktop\\ultimo\\gui\\gui\\ventas\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\ventas\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\ventas\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,15 +71,23 @@
       "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\ventas\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|c:\\users\\axel ev\\desktop\\ultimo\\gui\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\ventas\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\ventas\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|c:\\users\\axel ev\\desktop\\ultimo\\gui\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\ventas\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\ventas\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|c:\\users\\axel ev\\desktop\\ultimo\\gui\\gui\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\producto\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\producto\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -79,20 +107,12 @@
       "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\servicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\usuarios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\usuarios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\panelusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\panelusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\usuarios\\usuarioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\usuarios\\usuarioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\gui\\usuarios\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E1EC16-2B78-4FAD-B37D-6B67043F3331}|GUI\\GUI.csproj|solutionrelative:gui\\usuarios\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,11 +122,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 202,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FrmReportes.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\FrmReportes.cs",
               "RelativeDocumentMoniker": "GUI\\FrmReportes.cs",
@@ -119,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "PanelProductos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\PanelProductos.cs",
               "RelativeDocumentMoniker": "GUI\\PanelProductos.cs",
@@ -127,18 +147,17 @@
               "RelativeToolTip": "GUI\\PanelProductos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T23:13:35.318Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "FrmReportes.cs",
               "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\FrmReportes.cs",
               "RelativeDocumentMoniker": "GUI\\FrmReportes.cs",
               "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\FrmReportes.cs",
               "RelativeToolTip": "GUI\\FrmReportes.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAWwFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T23:27:37.894Z",
               "IsPinned": true,
@@ -146,34 +165,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "PanelVentas.cs",
               "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\PanelVentas.cs",
               "RelativeDocumentMoniker": "GUI\\PanelVentas.cs",
               "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\PanelVentas.cs",
               "RelativeToolTip": "GUI\\PanelVentas.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAJkAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAMwGwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T23:38:34.569Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ReporteVentasService.cs",
-              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Reporte\\ReporteVentasService.cs",
-              "RelativeDocumentMoniker": "GUI\\Reporte\\ReporteVentasService.cs",
-              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Reporte\\ReporteVentasService.cs",
-              "RelativeToolTip": "GUI\\Reporte\\ReporteVentasService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T23:46:13.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "PanelVentas.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\PanelVentas.cs",
               "RelativeDocumentMoniker": "GUI\\PanelVentas.cs",
@@ -181,63 +186,87 @@
               "RelativeToolTip": "GUI\\PanelVentas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T00:15:26.229Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VentaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Ventas\\VentaRepository.cs",
-              "RelativeDocumentMoniker": "GUI\\Ventas\\VentaRepository.cs",
-              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Ventas\\VentaRepository.cs",
-              "RelativeToolTip": "GUI\\Ventas\\VentaRepository.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAuwGgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T21:39:54.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Program.cs",
-              "RelativeDocumentMoniker": "GUI\\Program.cs",
-              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Program.cs",
-              "RelativeToolTip": "GUI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T23:47:46.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "VentaService.cs",
               "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Ventas\\VentaService.cs",
               "RelativeDocumentMoniker": "GUI\\Ventas\\VentaService.cs",
               "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Ventas\\VentaService.cs",
               "RelativeToolTip": "GUI\\Ventas\\VentaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwCwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T22:41:26.606Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IVentaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Ventas\\IVentaRepository.cs",
-              "RelativeDocumentMoniker": "GUI\\Ventas\\IVentaRepository.cs",
-              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Ventas\\IVentaRepository.cs",
-              "RelativeToolTip": "GUI\\Ventas\\IVentaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FormConfigPrecio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\FormConfigPrecio.cs",
+              "RelativeDocumentMoniker": "GUI\\FormConfigPrecio.cs",
+              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\FormConfigPrecio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUI\\FormConfigPrecio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T21:36:11.386Z",
+              "WhenOpened": "2025-11-11T04:57:16.702Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormConfigPrecio.cs",
+              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\FormConfigPrecio.cs",
+              "RelativeDocumentMoniker": "GUI\\FormConfigPrecio.cs",
+              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\FormConfigPrecio.cs",
+              "RelativeToolTip": "GUI\\FormConfigPrecio.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:26:17.555Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "PanelProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\PanelProductos.cs",
+              "RelativeDocumentMoniker": "GUI\\PanelProductos.cs",
+              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\PanelProductos.cs",
+              "RelativeToolTip": "GUI\\PanelProductos.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAQwMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:49:29.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Usuarios\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "GUI\\Usuarios\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Usuarios\\IUsuarioRepository.cs",
+              "RelativeToolTip": "GUI\\Usuarios\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:14:49.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReporteVentasService.cs",
+              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Reporte\\ReporteVentasService.cs",
+              "RelativeDocumentMoniker": "GUI\\Reporte\\ReporteVentasService.cs",
+              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Reporte\\ReporteVentasService.cs",
+              "RelativeToolTip": "GUI\\Reporte\\ReporteVentasService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:46:13.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "IProductoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Producto\\IProductoRepository.cs",
               "RelativeDocumentMoniker": "GUI\\Producto\\IProductoRepository.cs",
@@ -245,37 +274,24 @@
               "RelativeToolTip": "GUI\\Producto\\IProductoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T00:03:50.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T00:03:50.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Form1.cs",
               "RelativeDocumentMoniker": "GUI\\Form1.cs",
               "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Form1.cs",
               "RelativeToolTip": "GUI\\Form1.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAD4v4IAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAArwIcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T23:26:46.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "inicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\inicio.cs",
-              "RelativeDocumentMoniker": "GUI\\inicio.cs",
-              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\inicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "GUI\\inicio.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T23:26:02.643Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Form1.cs",
               "RelativeDocumentMoniker": "GUI\\Form1.cs",
@@ -287,20 +303,103 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Producto\\ProductoService.cs",
+              "RelativeDocumentMoniker": "GUI\\Producto\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Producto\\ProductoService.cs",
+              "RelativeToolTip": "GUI\\Producto\\ProductoService.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:35:14.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:47:46.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\inicio.cs",
+              "RelativeDocumentMoniker": "GUI\\inicio.cs",
+              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUI\\inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:26:02.643Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Usuarios\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "GUI\\Usuarios\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Usuarios\\UsuarioService.cs",
+              "RelativeToolTip": "GUI\\Usuarios\\UsuarioService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwCEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:11:24.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Usuarios\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "GUI\\Usuarios\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Usuarios\\UsuarioRepository.cs",
+              "RelativeToolTip": "GUI\\Usuarios\\UsuarioRepository.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswGsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:11:39.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IVentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Ventas\\IVentaRepository.cs",
+              "RelativeDocumentMoniker": "GUI\\Ventas\\IVentaRepository.cs",
+              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Ventas\\IVentaRepository.cs",
+              "RelativeToolTip": "GUI\\Ventas\\IVentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T21:36:11.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Ventas\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "GUI\\Ventas\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Ventas\\VentaRepository.cs",
+              "RelativeToolTip": "GUI\\Ventas\\VentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T21:39:54.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Venta.cs",
               "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Ventas\\Venta.cs",
               "RelativeDocumentMoniker": "GUI\\Ventas\\Venta.cs",
               "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Ventas\\Venta.cs",
               "RelativeToolTip": "GUI\\Ventas\\Venta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T23:31:45.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T23:31:45.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "ProductoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Producto\\ProductoRepository.cs",
               "RelativeDocumentMoniker": "GUI\\Producto\\ProductoRepository.cs",
@@ -308,12 +407,11 @@
               "RelativeToolTip": "GUI\\Producto\\ProductoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T00:04:10.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T00:04:10.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "ProductoC.cs",
               "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Producto\\ProductoC.cs",
               "RelativeDocumentMoniker": "GUI\\Producto\\ProductoC.cs",
@@ -321,24 +419,11 @@
               "RelativeToolTip": "GUI\\Producto\\ProductoC.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T00:04:03.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T00:04:03.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Usuarios\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "GUI\\Usuarios\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Usuarios\\UsuarioService.cs",
-              "RelativeToolTip": "GUI\\Usuarios\\UsuarioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCEAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T20:11:24.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "PanelUsuarios.cs",
               "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\PanelUsuarios.cs",
               "RelativeDocumentMoniker": "GUI\\PanelUsuarios.cs",
@@ -350,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "ServiceFactory.cs",
               "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\ServiceFactory.cs",
               "RelativeDocumentMoniker": "GUI\\ServiceFactory.cs",
@@ -362,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "PanelUsuarios.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\PanelUsuarios.cs",
               "RelativeDocumentMoniker": "GUI\\PanelUsuarios.cs",
@@ -373,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "UsuarioC.cs",
               "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Usuarios\\UsuarioC.cs",
               "RelativeDocumentMoniker": "GUI\\Usuarios\\UsuarioC.cs",
@@ -382,18 +467,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T19:29:17.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Usuarios\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "GUI\\Usuarios\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\Axel EV\\Desktop\\ultimo\\GUI\\GUI\\Usuarios\\UsuarioRepository.cs",
-              "RelativeToolTip": "GUI\\Usuarios\\UsuarioRepository.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAcwGsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T20:11:39.157Z"
             }
           ]
         }

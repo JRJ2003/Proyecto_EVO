@@ -168,3 +168,4 @@ C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.Runtime.CompilerService
 C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.csproj.Up2Date
 C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.FrmReportes.resources
+C:\Users\Axel EV\Desktop\ultimo\GUI\GUI\obj\Debug\GUI.FormConfigPrecio.resources

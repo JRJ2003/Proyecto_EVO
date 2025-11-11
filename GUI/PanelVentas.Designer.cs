@@ -51,6 +51,10 @@
             this.button1 = new System.Windows.Forms.Button();
             this.label7 = new System.Windows.Forms.Label();
             this.txtProductos = new System.Windows.Forms.TextBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.txtCantidad = new System.Windows.Forms.TextBox();
+            this.label10 = new System.Windows.Forms.Label();
+            this.txtPrecio = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvVenta)).BeginInit();
             this.SuspendLayout();
             // 
@@ -122,7 +126,7 @@
             this.btnAgregarCompras.Image = ((System.Drawing.Image)(resources.GetObject("btnAgregarCompras.Image")));
             this.btnAgregarCompras.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnAgregarCompras.Location = new System.Drawing.Point(16, 539);
-            this.btnAgregarCompras.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnAgregarCompras.Margin = new System.Windows.Forms.Padding(4);
             this.btnAgregarCompras.Name = "btnAgregarCompras";
             this.btnAgregarCompras.Size = new System.Drawing.Size(319, 62);
             this.btnAgregarCompras.TabIndex = 9;
@@ -141,7 +145,7 @@
             this.btnEditarCompras.Image = ((System.Drawing.Image)(resources.GetObject("btnEditarCompras.Image")));
             this.btnEditarCompras.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnEditarCompras.Location = new System.Drawing.Point(361, 539);
-            this.btnEditarCompras.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnEditarCompras.Margin = new System.Windows.Forms.Padding(4);
             this.btnEditarCompras.Name = "btnEditarCompras";
             this.btnEditarCompras.Size = new System.Drawing.Size(319, 62);
             this.btnEditarCompras.TabIndex = 10;
@@ -160,7 +164,7 @@
             this.btnEliminarCompras.Image = ((System.Drawing.Image)(resources.GetObject("btnEliminarCompras.Image")));
             this.btnEliminarCompras.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnEliminarCompras.Location = new System.Drawing.Point(719, 539);
-            this.btnEliminarCompras.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnEliminarCompras.Margin = new System.Windows.Forms.Padding(4);
             this.btnEliminarCompras.Name = "btnEliminarCompras";
             this.btnEliminarCompras.Size = new System.Drawing.Size(319, 62);
             this.btnEliminarCompras.TabIndex = 11;
@@ -173,7 +177,7 @@
             this.txtIdVenta.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtIdVenta.Enabled = false;
             this.txtIdVenta.Location = new System.Drawing.Point(160, 142);
-            this.txtIdVenta.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtIdVenta.Margin = new System.Windows.Forms.Padding(4);
             this.txtIdVenta.Name = "txtIdVenta";
             this.txtIdVenta.ReadOnly = true;
             this.txtIdVenta.Size = new System.Drawing.Size(133, 15);
@@ -193,7 +197,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(43, 238);
+            this.label6.Location = new System.Drawing.Point(43, 295);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(38, 16);
@@ -202,8 +206,8 @@
             // 
             // txtTotal
             // 
-            this.txtTotal.Location = new System.Drawing.Point(160, 234);
-            this.txtTotal.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtTotal.Location = new System.Drawing.Point(160, 292);
+            this.txtTotal.Margin = new System.Windows.Forms.Padding(4);
             this.txtTotal.Name = "txtTotal";
             this.txtTotal.Size = new System.Drawing.Size(132, 22);
             this.txtTotal.TabIndex = 52;
@@ -221,7 +225,7 @@
             // txtFecha
             // 
             this.txtFecha.Location = new System.Drawing.Point(160, 202);
-            this.txtFecha.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtFecha.Margin = new System.Windows.Forms.Padding(4);
             this.txtFecha.Name = "txtFecha";
             this.txtFecha.Size = new System.Drawing.Size(132, 22);
             this.txtFecha.TabIndex = 50;
@@ -239,7 +243,7 @@
             // txtIdUsuario
             // 
             this.txtIdUsuario.Location = new System.Drawing.Point(160, 170);
-            this.txtIdUsuario.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtIdUsuario.Margin = new System.Windows.Forms.Padding(4);
             this.txtIdUsuario.Name = "txtIdUsuario";
             this.txtIdUsuario.Size = new System.Drawing.Size(132, 22);
             this.txtIdUsuario.TabIndex = 48;
@@ -267,7 +271,7 @@
             // txtBuscar
             // 
             this.txtBuscar.Location = new System.Drawing.Point(644, 46);
-            this.txtBuscar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtBuscar.Margin = new System.Windows.Forms.Padding(4);
             this.txtBuscar.Name = "txtBuscar";
             this.txtBuscar.Size = new System.Drawing.Size(201, 22);
             this.txtBuscar.TabIndex = 45;
@@ -282,7 +286,7 @@
             this.button1.ForeColor = System.Drawing.Color.White;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button1.Location = new System.Drawing.Point(891, 23);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(127, 48);
             this.button1.TabIndex = 44;
@@ -293,7 +297,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(43, 278);
+            this.label7.Location = new System.Drawing.Point(43, 339);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(68, 16);
@@ -302,17 +306,55 @@
             // 
             // txtProductos
             // 
-            this.txtProductos.Location = new System.Drawing.Point(160, 274);
-            this.txtProductos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtProductos.Location = new System.Drawing.Point(160, 333);
+            this.txtProductos.Margin = new System.Windows.Forms.Padding(4);
             this.txtProductos.Name = "txtProductos";
             this.txtProductos.Size = new System.Drawing.Size(132, 22);
             this.txtProductos.TabIndex = 56;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(44, 235);
+            this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(61, 16);
+            this.label9.TabIndex = 58;
+            this.label9.Text = "Cantidad";
+            // 
+            // txtCantidad
+            // 
+            this.txtCantidad.Location = new System.Drawing.Point(160, 229);
+            this.txtCantidad.Name = "txtCantidad";
+            this.txtCantidad.Size = new System.Drawing.Size(133, 22);
+            this.txtCantidad.TabIndex = 59;
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(43, 265);
+            this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(46, 16);
+            this.label10.TabIndex = 60;
+            this.label10.Text = "Precio";
+            // 
+            // txtPrecio
+            // 
+            this.txtPrecio.Location = new System.Drawing.Point(160, 262);
+            this.txtPrecio.Name = "txtPrecio";
+            this.txtPrecio.Size = new System.Drawing.Size(132, 22);
+            this.txtPrecio.TabIndex = 61;
             // 
             // PanelVentas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1083, 639);
+            this.Controls.Add(this.txtPrecio);
+            this.Controls.Add(this.label10);
+            this.Controls.Add(this.txtCantidad);
+            this.Controls.Add(this.label9);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.txtProductos);
             this.Controls.Add(this.txtIdVenta);
@@ -364,5 +406,9 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.TextBox txtProductos;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.TextBox txtCantidad;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.TextBox txtPrecio;
     }
 }

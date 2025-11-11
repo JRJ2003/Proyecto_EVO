@@ -127,5 +127,10 @@ namespace GUI
         {
             AbrirFromHija(new FrmReportes());
         }
+
+        private void btnPanelPrecion_Click(object sender, EventArgs e)
+        {
+            AbrirFromHija(new FormConfigPrecio());
+        }
     }
 }
