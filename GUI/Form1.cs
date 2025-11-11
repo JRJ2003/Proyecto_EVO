@@ -123,5 +123,9 @@ namespace GUI
             AbrirFromHija(new PanelVentas());
         }
 
+        private void btnReportes_Click(object sender, EventArgs e)
+        {
+            AbrirFromHija(new FrmReportes());
+        }
     }
 }
